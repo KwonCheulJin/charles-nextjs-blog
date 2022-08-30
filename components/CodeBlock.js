@@ -1,4 +1,4 @@
-import React, { useRef } from 'react'
+import React from 'react'
 import { rainbow } from 'react-syntax-highlighter/dist/cjs/styles/hljs'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 

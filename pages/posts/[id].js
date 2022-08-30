@@ -1,5 +1,4 @@
-import Head from 'next/head'
-import React, { Component } from 'react'
+import React from 'react'
 import Date from '../../components/Date'
 import Layout from '../../components/Layout'
 import utilStyles from '../../styles/utils.module.css'
